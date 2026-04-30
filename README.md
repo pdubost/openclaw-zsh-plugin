@@ -9,7 +9,7 @@ Because typing `openclaw gateway restart` sixteen times a week builds character,
 Clone this repo into your Oh My Zsh custom plugins folder:
 
 ```zsh
-git clone https://github.com/phildub/openclaw-zsh-plugin.git \
+git clone https://github.com/pdubost/openclaw-zsh-plugin.git \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/openclaw
 ```
 
