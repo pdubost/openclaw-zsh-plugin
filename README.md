@@ -89,6 +89,13 @@ source ~/.zshrc
 
 This plugin intentionally keeps aliases short but still readable. No destructive commands are aliased beyond normal OpenClaw commands; use your own judgment before running updates/restarts/etc.
 
+<details>
+<summary>tiny lobster bat-signal</summary>
+
+![A tiny lobster easter egg: Cloclo and Philou at the terminal](assets/lobster-easter-egg.jpg)
+
+</details>
+
 ## License
 
 MIT
